@@ -1,0 +1,11 @@
+522.262995	527.950307	Heavy breathing with noises 
+695.146418	709.516004	Breathing
+735.972323	770.325495	Light breathing
+770.325495	772.595301	Heavy breathing
+798.609207	808.094549	Light breathing
+1357.916667	1363.571429	Heavy breathing with noises 
+1375.657802	1377.852172	Heavy breathing with noises
+1377.852172	1404.821691	Light breathing
+1407.336310	1431.701227	Heavy breathing with noises
+1459.756134	1472.682414	Heavy breathing with noises
+2044.624502	2055.313815	Heavy breathing with noises

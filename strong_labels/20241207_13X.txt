@@ -1,0 +1,54 @@
+167.645474	193.514402	breathing
+225.056029	238.633526	breathing
+271.523117	283.076640	breathing
+288.247744	312.198112	breathing
+316.518470	319.723976	heavy breathing
+320.121515	348.083541	heavy breathing
+348.823778	457.632328	heavy breathing with noises
+458.168246	471.395591	heavy breathing with noises
+476.446754	483.227980	heavy breathing with noises
+485.158853	488.356378	heavy breathing with noises
+488.742553	500.096086	heavy breathing with noises
+500.703859	516.830454	heavy breathing
+519.108292	533.565217	heavy breathing with noises
+537.404476	603.939394	heavy breathing with noises
+613.565097	686.768202	heavy breathing with noises
+688.109187	753.321489	heavy breathing with noises
+764.550958	780.397920	heavy breathing with noises
+797.574091	826.127839	heavy breathing with noises
+822.327881	836.037079	heavy breathing
+841.775633	851.709248	heavy breathing   
+857.970097	864.075074	heavy breathing
+865.802652	867.777028	heavy breathing
+883.064094	928.182306	heavy breathing
+930.607102	953.286656	heavy breathing with noises
+967.703812	999.891330	heavy breathing with noises
+1020.968364	1030.669069	heavy breathing with noises
+1064.907704	1068.544897	heavy breathing with noises
+1110.523904	1114.701824	heavy breathing with noises
+1986.065945	2007.498311	heavy breathing with noises
+2038.038528	2088.282795	heavy breathing
+2089.178453	2112.596651	heavy breathing with noises
+2136.145920	2158.843221	heavy breathing with noises
+2166.314325	2193.533611	heavy breathing with noises
+2228.748288	2266.300416	heavy breathing
+2275.803136	2281.504768	heavy breathing
+2285.873835	2304.901120	heavy breathing
+2307.522560	2386.843726	heavy breathing
+2398.232917	2421.746085	heavy breathing with noises
+2424.942406	2429.828736	heavy breathing
+2446.875783	2463.041086	heavy breathing
+2468.919378	2484.607070	heavy breathing with noises
+2485.415335	2521.824006	heavy breathing
+2524.322280	2619.256696	heavy breathing
+2620.175179	2650.285272	heavy breathing
+2651.845417	2689.869678	heavy breathing
+3080.151528	3163.402838	heavy breathing 
+3369.363494	3387.953592	heavy breathing
+3393.188946	3407.903046	heavy breathing
+3560.966586	3611.988607	heavy breathing
+3619.366537	3704.051029	heavy breathing
+3786.058411	3841.064960	heavy breathing
+3848.929280	3869.507584	heavy breathing
+3870.687232	3881.522517	heavy breathing
+4842.891947	4862.858581	heavy breathing  

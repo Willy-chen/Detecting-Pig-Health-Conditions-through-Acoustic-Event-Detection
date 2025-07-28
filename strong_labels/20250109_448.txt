@@ -1,0 +1,5 @@
+856.949043	889.541136	Heavy breathing with noises 
+2190.314596	2195.463872	Heavy breathing with noises 
+2195.524274	2200.658449	Heavy breathing 
+2205.415111	2209.522452	Heavy breathing with noises 
+2215.321049	2221.980376	Breathing 

@@ -1,0 +1,14 @@
+596.312619	649.540524	Heavy breathing with noises
+664.214883	679.556259	Heavy breathing with noises
+867.521468	877.860221	Heavy breathing with noises
+883.062949	884.663788	Heavy breathing with noises
+970.241986	988.785040	Heavy breathing with noises
+998.923689	1006.527675	Heavy breathing
+1006.594377	1013.731452	Heavy breathing with noises
+1037.677339	1046.948866	Heavy breathing with noises
+1070.427842	1086.636339	Heavy breathing with noises
+1515.417085	1540.769388	Heavy breathing with noises
+1580.985320	1600.504350	Heavy breathing
+1639.822855	1647.450982	Heavy breathing with noises
+1707.242033	1714.141000	Heavy breathing
+1768.771848	1776.960866	Heavy breathing with noises

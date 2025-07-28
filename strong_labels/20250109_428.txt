@@ -1,0 +1,18 @@
+1.741071	19.220489	Heavy breathing with noises 
+21.823264	42.395194	Heavy breathing with noises 
+63.717925	86.567283	Heavy breathing with noises 
+93.574753	110.517815	Heavy breathing with noises 
+115.623257	151.661675	Heavy breathing with noises 
+152.112155	156.541877	Heavy breathing 
+156.667011	237.553237	Heavy breathing with noises 
+237.553237	239.280078	Heavy breathing 
+239.380185	250.667217	Heavy breathing with noises 
+250.792351	256.923887	Heavy breathing 
+256.973940	262.980343	Heavy breathing with noises 
+263.005370	270.563427	Heavy breathing 
+270.663534	276.895177	Heavy breathing with noises 
+294.188612	314.059795	Heavy breathing with noises 
+334.531619	350.223346	Heavy breathing with noises 
+571.384109	594.058280	Heavy breathing 
+633.225033	636.878928	Heavy breathing with noises 
+709.706564	717.539914	Heavy breathing with noises 

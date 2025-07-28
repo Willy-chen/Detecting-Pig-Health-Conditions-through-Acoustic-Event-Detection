@@ -1,0 +1,5 @@
+2.563020	8.580546	heavy breathing
+13.818022	18.832626	heavy breathing
+20.838468	25.518766	heavy breathing
+29.419014	34.433618	heavy breathing
+77.737191	83.695981	heavy breathing
